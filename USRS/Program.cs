@@ -20,7 +20,7 @@ namespace USRS2
             Console.WriteLine(a + " < " + b + " или " + a + " > " + b + " - " + y);
             Console.WriteLine(chislo_1 + " = " + chislo_2 + " или " + chislo_1 + " = " + chislo_2 + " - " + z);
             Console.WriteLine(a + " > " + b + " - " + w);
-            Console.ReadLine();
+            Console.ReadKey();
                 
         }
     }
